@@ -1,2 +1,2 @@
 #!/usr/bin/env ruby
-Ho[a-z]+n
+S[a-z]+l
