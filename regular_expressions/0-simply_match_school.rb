@@ -1,2 +1,2 @@
 #!/usr/bin/env ruby
-S[a-z]*l
+S[a-z]+l
