@@ -1,2 +1,4 @@
 #!/usr/bin/env ruby
-S[a-z]+l
+#Match "School" with a regular expression.
+
+put ARGV[0].scan(/S.hool/).join
